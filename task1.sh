@@ -5,3 +5,4 @@ if [ "data1.txt" == "$1" ];
     echo -e "/bin/cat\n/var/www\n/var/www/html/index.html"
 fi
 #скріпт неправильний, але працює
+#я ще вчуся
